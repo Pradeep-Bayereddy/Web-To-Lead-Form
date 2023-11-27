@@ -8,4 +8,3 @@ function beforesubmit(){
     outputdate.value = formattedDate;
 
 }
-
