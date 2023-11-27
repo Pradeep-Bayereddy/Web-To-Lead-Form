@@ -16,6 +16,7 @@ h1{
 input,label{
     display: block;
     background-color: white;
+    
 }
 
 label{
@@ -47,7 +48,7 @@ form{
 }
 
 .g-recaptcha{
-    margin: 15px auto 0 auto;
+   
     display: flex;
     justify-content: center;
     background-color: rgb(167, 201, 158);
