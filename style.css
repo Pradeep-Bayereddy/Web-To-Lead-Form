@@ -1,55 +1,49 @@
-*{
-    margin: 10;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: lightgray;
-    
-    
+* {
+  margin: 10;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: lightgray;
 }
 
-h1{
-    text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
-}                                               /* https://pradeep-bayereddy.github.io/Web-To-Lead-Form/ */
+h1 {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+} /* https://pradeep-bayereddy.github.io/Web-To-Lead-Form/ */
 
-input,label{
-    display: block;
-    background-color: white;
-    
+input,
+label {
+  display: block;
+  background-color: white;
 }
 
-label{
-    color: black;
-    font-size: large;
-    background-color: rgb(167, 201, 158);
+label {
+  color: black;
+  font-size: large;
+  background-color: rgb(167, 201, 158);
 }
 
-input{
-    width: 100%;
+input {
+  width: 100%;
 }
 
-.submit{
-    margin: 15px auto;
-    width: 40%;
-    background-color: rgb(172, 135, 206);
-    border-radius: 5px;
-    
+.submit {
+  margin: 15px auto;
+  width: 40%;
+  background-color: rgb(172, 135, 206);
+  border-radius: 5px;
 }
 
-form{
-    min-width: 300px;
-    max-width: 500px;
-    margin: auto;
-    border: 2px solid black;
-    padding: 15px;
-    background-color: rgb(167, 201, 158);
-    
+form {
+  min-width: 300px;
+  max-width: 500px;
+  margin: auto;
+  border: 2px solid black;
+  padding: 15px;
+  background-color: rgb(167, 201, 158);
 }
 
-.g-recaptcha{
-   
-    display: flex;
-    justify-content: center;
-    background-color: rgb(167, 201, 158);
+.g-recaptcha {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(167, 201, 158);
 }
